@@ -1,14 +1,30 @@
 {
   "files": {
     "main.css": "/lavrushkinskaya/static/css/main.38e86aaa.css",
-    "main.js": "/lavrushkinskaya/static/js/main.4e393ce2.js",
+    "main.js": "/lavrushkinskaya/static/js/main.240ffff8.js",
+    "static/media/djungli.jpg": "/lavrushkinskaya/static/media/djungli.31ee1996f977165cbe11.jpg",
+    "static/media/elk.jpg": "/lavrushkinskaya/static/media/elk.e3a36bf478d0f16cf29d.jpg",
+    "static/media/autumn.jpg": "/lavrushkinskaya/static/media/autumn.62635f85cdaf7d3dc53e.jpg",
+    "static/media/hedgehog.jpg": "/lavrushkinskaya/static/media/hedgehog.763f67e1d8426c16ec23.jpg",
+    "static/media/kebab.jpg": "/lavrushkinskaya/static/media/kebab.ad43a50fdc741b2d456a.jpg",
+    "static/media/x-tree.jpg": "/lavrushkinskaya/static/media/x-tree.bb69b221b685fa168145.jpg",
+    "static/media/izumrud.jpg": "/lavrushkinskaya/static/media/izumrud.c0ae1ed337dd213fb009.jpg",
+    "static/media/dreams.jpg": "/lavrushkinskaya/static/media/dreams.cef8196f2e6e3c98598a.jpg",
+    "static/media/feya.jpg": "/lavrushkinskaya/static/media/feya.ae80b28cec7a61adc216.jpg",
+    "static/media/upilates.jpg": "/lavrushkinskaya/static/media/upilates.3e33468e8882951cb2f9.jpg",
+    "static/media/gerds.jpg": "/lavrushkinskaya/static/media/gerds.a81f6b02412a832aed11.jpg",
+    "static/media/queens.jpg": "/lavrushkinskaya/static/media/queens.b9d5254d3f54708ef90b.jpg",
+    "static/media/kais.jpg": "/lavrushkinskaya/static/media/kais.79013b266bee3b6162d9.jpg",
+    "static/media/ozon.jpg": "/lavrushkinskaya/static/media/ozon.ede2d9f0521b705eb8b7.jpg",
     "static/media/Comfortaa.ttf": "/lavrushkinskaya/static/media/Comfortaa.7b8c952927af2b0deacd.ttf",
+    "static/media/katya3.jpg": "/lavrushkinskaya/static/media/katya3.52eaf5821128b506478c.jpg",
+    "static/media/boyisok2.jpg": "/lavrushkinskaya/static/media/boyisok2.506ec727c03e1932491c.jpg",
     "index.html": "/lavrushkinskaya/index.html",
     "main.38e86aaa.css.map": "/lavrushkinskaya/static/css/main.38e86aaa.css.map",
-    "main.4e393ce2.js.map": "/lavrushkinskaya/static/js/main.4e393ce2.js.map"
+    "main.240ffff8.js.map": "/lavrushkinskaya/static/js/main.240ffff8.js.map"
   },
   "entrypoints": [
     "static/css/main.38e86aaa.css",
-    "static/js/main.4e393ce2.js"
+    "static/js/main.240ffff8.js"
   ]
 }
