@@ -26,7 +26,7 @@ export const Header = () => {
       <div className="header-container">
         <h1 className="text-3xl font-extrabold">Катя Лаврова</h1>
         <div className="hidden md:block">
-          <Link to="illustrations" title="Иллюстрации" />
+          <Link to="lavrushkinskaya" title="Иллюстрации" />
           <Link to="projects" title="Проекты" />
           <Link to="about" title="Обо мне" />
         </div>
