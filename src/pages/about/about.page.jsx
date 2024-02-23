@@ -1,3 +1,5 @@
+import katyaImg from "../../assets/katya3.jpg";
+
 export const AboutPage = () => {
   return (
     <div className="about">
@@ -35,7 +37,7 @@ export const AboutPage = () => {
         </p>
       </div>
       <div className="rounded-3xl overflow-hidden max-h-[650px]">
-        <img className="object-cover" alt="Katya" src="/katya3.jpg" />
+        <img className="object-cover" alt="Katya" src={katyaImg} />
       </div>
     </div>
   );
