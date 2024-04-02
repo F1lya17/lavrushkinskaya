@@ -13,10 +13,22 @@ import elkImg from "../../assets/elk.jpg";
 import autumnImg from "../../assets/autumn.jpg";
 import dreamsImg from "../../assets/dreams.jpg";
 import hedgehogImg from "../../assets/hedgehog.jpg";
+import foxImg from "../../assets/fox.jpg";
+import foxandgooseImg from "../../assets/foxandgoose.jpg";
+import mockupImg from "../../assets/mockup.png";
 
 export const IllustrationsPage = () => {
   return (
     <div className="flex flex-wrap gap-y-4 items-center justify-between">
+      <div className="illustration">
+        <img alt="foxandgoose" src={foxandgooseImg} />
+      </div>
+      <div className="illustration">
+        <img alt="fox" src={foxImg} />
+      </div>
+      <div className="illustration">
+        <img alt="mockup" src={mockupImg} />
+      </div>
       <div className="illustration">
         <img alt="djungli" src={dgungliImg} />
       </div>
